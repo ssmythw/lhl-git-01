@@ -1,5 +1,5 @@
 # Scott Smyth's Notes
 
-# This is an H1 header
+## Summary
 
-###### THis is an h6
+This is a repository contains all of the notes taken by taken by [ssmythw](https://github.com/ssmythw) for the Lighthouse Labs Web Development Bootcamp.
